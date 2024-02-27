@@ -1,9 +1,9 @@
 import 'package:flutter/material.dart';
 
-void main() => runApp(const MiDrawerMeza());
+void main() => runApp(const MiDrawerCano());
 
-class MiDrawerMeza extends StatelessWidget {
-  const MiDrawerMeza({Key? key}) : super(key: key);
+class MiDrawerCano extends StatelessWidget {
+  const MiDrawerCano({Key? key}) : super(key: key);
 
   @override
   Widget build(BuildContext context) {
@@ -110,4 +110,3 @@ class MiDrawerMeza extends StatelessWidget {
     );
   }
 }
-

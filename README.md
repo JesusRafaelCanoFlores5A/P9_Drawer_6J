@@ -17,3 +17,15 @@ samples, guidance on mobile development, and a full API reference.
 
 - How to use FlutLab? Please, view our https://flutlab.io/docs
 - Join the discussion and conversation on https://flutlab.io/residents
+
+
+# Screenshots de prueba
+- ![image](https://github.com/JesusRafaelCanoFlores5A/P9_Drawer_6J/assets/143547897/e921bd55-9140-4950-9fe1-7a149b9c2322)
+- ![image](https://github.com/JesusRafaelCanoFlores5A/P9_Drawer_6J/assets/143547897/b56e3205-e594-49ec-9d01-4f047eea0436)
+
+## Links de referencia
+
+- https://appmaking.com/flutter-drawer-example/
+- https://blog.logrocket.com/how-to-add-navigation-drawer-flutter/
+- https://medium.com/flutter-community/flutter-vi-navigation-drawer-flutter-1-0-3a05e09b0db9
+- https://youtu.be/jDQQM1RfjNc?si=aukMEV1Q4dp5t1Ta
